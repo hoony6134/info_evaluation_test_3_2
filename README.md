@@ -1,5 +1,6 @@
 
 > 이 페이지를 [https://hoony6134.github.io/info_evaluation_test_3_2/](https://hoony6134.github.io/info_evaluation_test_3_2/)으로 열기
+> https://makecode.microbit.org/_emV3HzPA6JdX
 
 ## 확장으로 사용
 
